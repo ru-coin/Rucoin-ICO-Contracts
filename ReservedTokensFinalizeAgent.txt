@@ -1,0 +1,35 @@
+Token name: RUCOIN
+
+Token ticker: RUC
+
+Token decimals: 18
+
+Multisig wallet address: 0x8478a586C67ec32cFF81854639a7733002fcE43e
+
+*****************************
+
+Crowdsale rate: 25
+
+Crowdsale start time: 2017-11-22T00:00:00 (GMT + 3)
+
+Crowdsale end time: 2017-12-27T23:59:00 (GMT + 3)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Finalize agent contract name: ReservedTokensFinalizeAgent
+
+Finalize agent contract address for PreICO: 0x8FC202be2DF28F0c9a32EE1ebc7193ae481017D7
+
+*****************************
+
+****Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function","signature":"0x0bf318a3"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function","signature":"0x614cb904"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function","signature":"0x82771c8e"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function","signature":"0x9c1e03a0"},{"constant":true,"inputs":[],"name":"token","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function","signature":"0xfc0c546a"},{"inputs":[{"name":"_token","type":"address"},{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor","signature":"constructor"}]
+
+****Finalize agent contract ABI encoded constructor arguments for PreICO:**** 
+
+0000000000000000000000007049587480e86dfd4af7acd919c47b24cb4dce7d00000000000000000000000019c3ce00c372fd037fc5d8b3278820a076dbf6bc
